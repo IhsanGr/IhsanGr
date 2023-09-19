@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ihsân</h1>
 <h3 align="center">A student in master degree BIM-BMC at Sorbonne Université</h3>
 
-- 🌱 I’m currently learning **Computationnal neurosciences, Machine Learning and Modelisation**
+- 🌱 I’m currently learning **Computationnal neurosciences, Data Sciences, Machine Learning and Modelisation**
 
 - 📫 How to reach me **ihsan.grichi@gmail.com**
 
