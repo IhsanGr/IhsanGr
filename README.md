@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ihsân</h1>
-<h3 align="center">A student in master degree BIM-BMC at Sorbonne Université</h3>
+<h1 align="center"><a href="https://www.linkedin.com/in/ihs%C3%A2n-grichi-6b36b1252/?trk=public_profile_browsemap&originalSubdomain=fr">Hi 👋, I'm Ihsân</a></h1>
+<h3 align="center"><a href="http://www.lcqb.upmc.fr/BIM/">A student in master degree BIM-BMC at Sorbonne Université</a></h3>
+
 
 - 🌱 I’m currently learning **Computationnal neurosciences, Data Sciences, Machine Learning and Modelisation**
 
