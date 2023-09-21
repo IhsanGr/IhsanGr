@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **ihsan.grichi@gmail.com**
 
-- ⚡ Fun fact **Find it for me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
