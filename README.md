@@ -17,4 +17,4 @@
 <img src="https://cdn.discordapp.com/attachments/941269718495539310/1153758761144565882/R_logo.svg.png" alt="Logo R" width="40" height="40/>
 <img src="https://cdn.discordapp.com/attachments/941269718495539310/1153764053794177124/1393093-middle.png" alt="Rstudio" width="40" height="40"/> </a> </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ihsangr&label=Profile%20views&color=0e75b6&style=flat" alt="mathyshub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihsangr&label=Profile%20views&color=0e75b6&style=flat" alt="mathyshub" /> </p>
